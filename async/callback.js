@@ -19,5 +19,3 @@ hola("Rafa", function () {
   });
 });
 
-// hola('Jose', function(){});
-// adios('Juana', function(){});
